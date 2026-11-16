@@ -1,0 +1,18 @@
+Unity HW5 local validation — 2026-10-30
+Unity version: 6000.0.83f1
+Platform: Windows x64 / Mono / Built-in Render Pipeline
+Build: Succeeded
+View: fixed-position FIRST PERSON, trainer hand visible
+
+HW5_READY: scene loaded; mouse / Space / R / D supported.
+HW5_THROW: 1 target=(8.00, 0.40, 8.00)
+HW5_MISS: retry enabled.
+HW5_THROW: 2 target=(3.00, 1.25, 5.00)
+HW5_COLLISION: capture target hit through OnCollisionEnter.
+HW5_THROW: 3 target=(3.00, 1.25, 5.00)
+HW5_COLLISION: capture target hit through OnCollisionEnter.
+HW5_CAPTURED: success; attempts=3 catches=1
+HW5_THROW: 4 target=(3.00, 1.25, 5.00)
+HW5_COLLISION: capture target hit through OnCollisionEnter.
+HW5_CAPTURED: success; attempts=4 catches=2
+HW5_TEST_PASS: screen ray aim, duplicate guard, miss/retry, collision, reset during absorption, success, repeat round.
